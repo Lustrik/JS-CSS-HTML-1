@@ -2,3 +2,4 @@
 
 Реализация:
 https://plnkr.co/plunk/dHE67wgMsL779RFs
+![image](https://github.com/Lustrik/JS-CSS-HTML-1/assets/137787455/c8f97705-acbf-4618-9a41-1519fafbbb28)
